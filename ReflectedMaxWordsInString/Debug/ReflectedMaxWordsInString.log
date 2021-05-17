@@ -1,0 +1,4 @@
+﻿  ReflectedMaxWordsInString.cpp
+D:\ForGit\C++\ReflectedMaxWordsInString\ReflectedMaxWordsInString.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+D:\ForGit\C++\ReflectedMaxWordsInString\ReflectedMaxWordsInString.cpp(40,23): warning C4018: '<': signed/unsigned mismatch
+  ReflectedMaxWordsInString.vcxproj -> D:\ForGit\C++\ReflectedMaxWordsInString\Debug\ReflectedMaxWordsInString.exe
