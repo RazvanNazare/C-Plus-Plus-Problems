@@ -1,0 +1,4 @@
+﻿  ReflextedMaxWordsInString.cpp
+C:\Users\Razvan\source\repos\ReflextedMaxWordsInString\ReflextedMaxWordsInString\ReflextedMaxWordsInString.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Razvan\source\repos\ReflextedMaxWordsInString\ReflextedMaxWordsInString\ReflextedMaxWordsInString.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+  ReflextedMaxWordsInString.vcxproj -> C:\Users\Razvan\source\repos\ReflextedMaxWordsInString\Debug\ReflextedMaxWordsInString.exe
